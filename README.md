@@ -12,8 +12,8 @@ This application was developed as a final project for the Dicoding Android Begin
 5. Implement a share feature to allow users to share content.
 
 ## Technology and Tools 
-Proyek ini merupakan proyek Android native yang dibangun dengan bahasa Kotlin. Proyek ini memanfaatkan beberapa library, antara lain:
-- Glide: Untuk pemrosesan gambar.
-- RecyclerView: Untuk menampilkan data dalam bentuk list.
-- CircleImageView: Untuk menampilkan gambar dalam format lingkaran.
-- Material3: Untuk mendukung penerapan desain antarmuka yang modern dan responsif.
+This project is a native Android project built using Kotlin. It utilizes several libraries, including:
+- Glide: For image processing.
+- RecyclerView: For displaying data in a list format.
+- CircleImageView: For displaying images in a circular format.
+- Material3: To support the implementation of a modern and responsive user interface design
