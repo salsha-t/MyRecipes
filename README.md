@@ -17,3 +17,7 @@ This project is a native Android project built using Kotlin. It utilizes several
 - RecyclerView: For displaying data in a list format.
 - CircleImageView: For displaying images in a circular format.
 - Material3: To support the implementation of a modern and responsive user interface design
+
+## Installation
+Clone this repository and import into Android Studio
+```https://github.com/salsha-t/MyRecipes.git
