@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">My Recipes</string>
+    <string name="intro">Inilah tempatnya segala resep masakan enak! Yuk, jelajahi beragam hidangan seru bergaya rumahan, tepat sebagai masakan sehari-hari.</string>
+    <string name="food_recipes">Resep Masakan</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="cook_step">Cara Memasak</string>
+    <string name="ingredients">Bahan-Bahan</string>
+    <string name="time">10 menit</string>
+    <string name="serving">5 porsi</string>
+    <string name="name">Salsha Thaulinzky</string>
+    <string name="share">Bagikan</string>
+    <string name="back">kembali</string>
+    <string name="send_to">Bagikan kepada</string>
+    <string name="happy_cooking">Selamat Memasak!</string>
+    <string name="email">salshathaulinzky@gmail.com</string>
+    <string name="resep">Resep</string>
+    <string name="tentang">Tentang</string>
+    <string name="kumpulan_resep">Kumpulan Resep</string>
+
+
+    <string-array name="data_name">
+        <item>Burger Sapi Lada Hitam</item>
+        <item>Capcay</item>
+        <item>Rendang Kentang Jamur</item>
+        <item>Ayam Rica-Rica</item>
+        <item>Opor Ayam</item>
+        <item>Tumis Kangkung</item>
+        <item>Tumis Buncis Daging Giling</item>
+        <item>Lasagna Kulit Pangsit Kukus</item>
+        <item>Martabak Mie Telur Kornet</item>
+        <item>Ikan Kakap Saus Tiram</item>
+    </string-array>
+
+    <string-array name="data_time">
+        <item>10 Menit</item>
+        <item>30 Menit</item>
+        <item>30 Menit</item>
+        <item>20 Menit</item>
+        <item>40 Menit</item>
+        <item>10 Menit</item>
+        <item>15 Menit</item>
+        <item>10 Menit</item>
+        <item>15 Menit</item>
+        <item>30 Menit</item>
+    </string-array>
+
+    <string-array name="data_serving">
+        <item>4 Orang</item>
+        <item>4 Orang</item>
+        <item>6 Orang</item>
+        <item>6 Orang</item>
+        <item>6 Orang</item>
+        <item>4 Orang</item>
+        <item>3 Orang</item>
+        <item>4 Orang</item>
+        <item>4 Orang</item>
+        <item>4 Orang</item>
+    </string-array>
+
+    <string-array name="data_ingredients">
+        <item>200 gram daging sukiyaki\n2 cabai merah potong dadu\n2 cabai hijau potong dadu kalengan\n1 bawang bombay iris kasar\n1 sendok teh lada hitam bubuk\n2 sendok takar Royco kaldu sapi\n50 ml air\n1 sendok makan kecap manis\n1 sendok teh tepung jagung</item>
+        <item>150 gram wortel iris tipis\n150 gram kol putih potong potong kecil seukuran gigitan\n150 gram brokoli petik kuntumnya\n50 gram kapri siangi\n100 gram jamur segar belah dua\n150 gram sawi putih potong dadu\n50 gram bawang bombay potong dadu\n4 siung bawang putih memarkan\n6 bakso sapi iris\n200 ml air\n3 sendok makan minyak goreng\n1 sendok teh maizena dilarutkan\n2 sendok teh minyak zaitun\n1 sendok makan Royco kaldu ayam\n1 sendok makan saus tiram\n1/4 sendok teh lada putih bubuk\n1 sendok teh gula pasir</item>
+        <item>400 g kentang rendang\n300 g jamur tiram, suwir-suwir\n500 ml air kelapa\n1 1/2 sdm Royco kaldu ayam\n500 ml santan kental\n200 g kelapa parut, sangrai\n5 sdm minyak goreng\n100 g kacang merah, rebus hingga matang\nBumbu I, haluskan: 15 buah cabai merah keriting\nBumbu I, haluskan: 4 buah cabai rawit merah\nBumbu I, haluskan: 10 bawang merah\nBumbu I, haluskan: 5 siung bawang putih\nBumbu I, haluskan: 3 cm jahe\nBumbu I, haluskan: 1 sdt ketumbar\nBumbu I, haluskan: 1 sdt merica bubuk\nBumbu II: 5 biji kapulaga\nBumbu II: 5 buah lembar daun jeruk\nBumbu II: 5 buah cengkeh utuh\nBumbu II: 3 buah pekak\nBumbu II: 2 cm kunyit\nBumbu II: 2 buah serai, memarkan\nBumbu II: 2 lemar daun salam\nBumbu II: 2 gram daun lembar kunyit segar, iris halus\nBumbu II: 1 sdm buah asam asam kandis</item>
+        <item>1 ayam kampung utuh potong kecil\n2 batang serai memarkan\n1 bungkus Royco kaldu ayam\n6 bawang merah iris tipis\n1 daun pandan\n1 daun kunyit\n500 ml air\n1 Jeruk nipis ambil airnya\n5 sendok makan minyak goreng untuk menumis\n3 daun bawang potong potong kecil\n2 kemangi segar\n100 gram cabai merah\n10 cabai rawit\n6 bawang putih\n3 bawang merah\n1/2 jahe segar\n1 sendok teh garam</item>
+        <item>1 ekor ayam utuh, potong 8 bagian, buang kulitnya\n1 l santan encer\n200 ml santan kental\n300 ml susu rendah lemak\n4 buah daun jeruk purut segar biarkan utuh\n1 g daun kunyit (kira-kira 1 lembar)\n1 gram (kira-kira seruas ibu jari) lengkuas, memarkan\n1 batang serai memarkan\n1 sdm Royco kaldu ayam\n2 sdm bawang goreng\nBumbu Halus: 3 buah bawang merah\nBumbu Halus: 6 siung bawang putih\nBumbu Halus: 1 gram kencur (kira-kira seruas jari), memarkan\nBumbu Halus: 1 sdt merica putih bubuk\nBumbu Halus: 1 sdt ketumbar butiran\nBumbu Halus: 5 buah kemiri, sangrai\nBumbu Halus: 2 sdt garam\nBumbu Halus: 1 sdt gula pasir</item>
+        <item>5 buah bawang merah cincang halus\n3 siung bawang putih memarkan cincang halus\n1 1/4 sdt Royco kaldu ayam\n1 sdm minyak wijen\n2 buah cabai merah buang biji iris serong tipis\n2 ikat (500 g) kangkung, petiki daunnya\n3 sdm minyak untuk menumis</item>
+        <item>1 ikat buncis segar potong memanjang selebar 2.5 cm\n200 gram daging sapi giling\n1/2 sendok teh Royco rasa sapi\n2 siung bawang putih\n2 cabai rawit digeprak\n2 sendok makan kecap manis\n2 sendok makan saus tiram\n1 sendok teh garam\n1/2 sendok teh lada putih bubuk\n100 ml air\n1 sendok makan tepung sagu\n1/2 sendok teh minyak wijen</item>
+        <item>1 Royco sup krim ayam\n400 ml air\n1/2 bawang bombay cincang\n2 sendok makan minyak goreng\n200 gram daging sapi giling\n1 sendok teh oregano kering\n150 ml saus tomat\n1 Royco kaldu sapi\n6 lembar kulit pangsit\n200 gram keju dilelehkan</item>
+        <item>1 bungkus Royco kaldu sapi\n4 butir telur sedang\n100 gram mie telur\n50 gram irisan kornet sapi\n1 batang daun bawang\n12 lembar kulit lumpia\n1 sendok makan tepung terigu\n1 sendok makan air\nminyak goreng</item>
+        <item>1 ekor fillet ikan kakap putih atau ikan kakap utuh potong jadi empat digarami dan merica\n2 sendok makan tepung jagung maizena\nminyak goreng\nBahan saus: 4 siung bawang putih memarkan\nBahan saus: 2 cm jahe iris tipis\nBahan saus: 4 bawang putih memarkan\nBahan saus: 2 cm jahe segar iris tipis\nBahan saus: 1 bawang bombay iris memanjang\nBahan saus: 1 wortel belah dua potong serong 1/2 cm\nBahan saus: 1 sendok makan Royco saus tiram\nBahan saus: 1 sendok makan kecap asin\nBahan saus: 1 sendok makan saus tomat\nBahan saus: 2 sendok teh gula pasir\nBahan saus: 1 1/4 sdm Royco kaldu ayam\nBahan saus: 1/2 sendok teh lada putih bubuk\nBahan saus: 4 buah daun bawang potong serong\nBahan saus: 100 ml air\nBahan saus: 1 sendok teh tepung jagung maizena dilarutkan\nBahan saus: 1 sendok makan margarin</item>
+    </string-array>
+
+    <string-array name="data_step">
+        <item>1. Tumis bawang bombay dan cabe sampai harum\n2. Masukkan daging sukiyaki, masak hingga berubah warna\n3. Masukkan ROYCO dan lada hitam.\n4. Campur air dan tepung jagung, masukkan sambil terus diaduk rata.</item>
+        <item>1. Tumis bawang bombay dan bawang putih hingga harum.\n2. Masukkan bakso sapi, aduk rata. Kemudian masukkan semua sayuran, bumbu, Royco Penyedap Serbaguna Rasa Ayam atau Sapi, dan air.\n3. Masak hingga kuah mengental. Angkat.\n4. Sajikan hangat ditemani nasi putih.</item>
+        <item>1. Dalam wadah campur kentang, jamur, air kelapa, dan Royco Kaldu Ayam, aduk rata, diamkan selama 20 menit\n2. Panaskan minyak, tumis bumbu I dan II hingga harum\n3. Tuang santan, kelapa parut, kentang dan jamur beserta air rendamannya, aduk rata\n4. Masak di atas api sedang sambil terus diaduk, hingga sedikit mengering. Tambahkan kacang merah, aduk hingga rata. Angkat, sajikan segera. *Air kelapa yang manis dicampur dengan Royco Kaldu Ayam menjadi bumbu rendaman yang pas untuk kentang dan jamur. Menghasilkan tekstur rendang yang lebih ‘juicy’ dan gurih</item>
+        <item>1. Tumis bawang merah, serai, daun pandan, daun kunyit hingga harum.\n2. Masukkan bumbu halus, daun jeruk, tumis hingga harum dan matang.\n3. Tambahkan ayam, tumis hingga berubah warna lalu tambahkan air. Kecilkan api, ungkep hingga air tinggal sedikit dan ayam lunak.\n4. Tambahkan air jeruk nipis, daun bawang dan daun kemangi, masak sebentar saja lalu angkat.</item>
+        <item>1. Aduk rata daging ayam dengan bumbu halus, lalu biarkan selama sekitar 15 menit hingga bumbu meresap.\n2. Rebus santan encer dan susu rendah lemak, masukkan Royco Kaldu Ayam dan semua bahan kecuali santan kental. Masak di atas api kecil sambil sesekali diaduk agar santan tidak pecah.\n3. Masukkan santan kental, aduk perlahan hingga ayam empuk. Angkat.\n4. Sajikan dengan taburan bawang merah goreng.</item>
+        <item>1. Panaskan minyak di dalam wajan di atas api sedang. Tumis bawang merah dan bawang putih hingga harum.\n2. Masukkan Royco Kaldu Ayam, minyak wijen, dan cabai merah, aduk rata.\n3. Masukkan kangkung, aduk rata hingga semua bahan tercampur rata. Angkat.\n4. Sajikan segera ditemani nasi putih.</item>
+        <item>1. Tumis bawang putih dan cabe hingga wangi, lalu masukkan daging giling dan tumis hingga matang sambil ditambahkan sedikit air.\n2. Masukkan buncis dan aduk rata.\n3. Setelah bunci agak layu, tambahkan kecap manis, saus tiram, garam, merica, dan tentunya Royco Bumbu Pelezat Serbaguna Rasa Sapi agar lebih nikmat.\n4. Tambahkan air dan sagu, lalu masak sampai mengental. Setelah mengental, tambahkan minyak wijen, lalu aduk hingga merata.\n5. Angkat, dan sajikan hangat-hangat dengan nasi pulen yang nikmat.</item>
+        <item>1. Masak air dan Krim Sup Royco sampai mendidih, masukan 100 gr keju masak sampai meleleh, sisihkan.\n2. Tumis bawang bombay, daging giling, oregano, saus tomat, dan Royco Kaldu Sapi sampai matang.\n3. Rebus kulit pangsit, angkat dan susun dalam wadah anti panas, bergantian dengan saus putih, saus daging dan 100 gr keju leleh parut.\n4. Kukus selama 15 menit sampai keju meleleh dan sajikan.</item>
+        <item>1. Campurkan ROYCO, telur, mie, kornet dan daun bawang.\n2. Aduk rata tepung terigu dan air dalam wadah terpisah sebagai perekat.\n3. Letakkan campuran mie di tengah kulit lumpia.\n4. Lipat kotak dan rekatkan dengan perekat.\n5.Goreng sampai kecoklatan.</item>
+        <item>1. Gulingkan ikan ke dalam tepung maizena hingga tersalut rata. Goreng di dalam minyak banyak dan panas hingga matang. Angkat, tiriskan. Sisihkan.\n2. Tumis bawang putih dan jahe dengan margarin hingga harum. Lalu masukkan bawang bombay dan wortel, lalu tumis hingga layu. Tambahkan saus tiram, kecap asin, saus tomat, gula, Royco Kaldu Ayam, merica, dan air. Aduk rata dan masak hingga mendidih. Masukkan daun bawang, aduk rata.\n3. Tuangkan larutan maizena, masak hingga kuah mengental. Masukkan ikan yang telah digoreng, aduk rata. Angkat.\n4. Sajikan segera ditemani nasi putih.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/03/28/IMG_20230328_102559-2542006237.jpg</item>
+        <item>https://d12man5gwydfvl.cloudfront.net/wp-content/uploads/2022/02/HappyFresh-Capcay-Goreng-Recipe-1-940x700.jpg</item>
+        <item>https://kurio-img.kurioapps.com/21/05/16/9d6f2fab-864e-4db5-bf70-6b595e49dd74.jpe</item>
+        <item>https://assets.unileversolutions.com/recipes-v2/125515.jpg</item>
+        <item>https://assets.unileversolutions.com/recipes-v2/230519.jpg</item>
+        <item>https://scm-assets.constant.co/scm/unilever/db8b0e966bd39ae48dd42e9d1e4b9aa0/17ea3056-4e78-4d25-bd54-cf3a9296188b.jpg</item>
+        <item>https://www.sasa.co.id/medias/page_medias/resep_tumis_buncis_daging_cincang.jpg</item>
+        <item>https://www.masakapahariini.com/wp-content/uploads/2018/04/resep-lasagna-kulit-pangsit.jpg</item>
+        <item>https://assets.unileversolutions.com/recipes-v2/125715.jpg</item>
+        <item>https://scm-assets.constant.co/scm/unilever/db8b0e966bd39ae48dd42e9d1e4b9aa0/83bc304a-d6fa-4a77-938a-c267d5033083.jpg</item>
+    </string-array>
+</resources>

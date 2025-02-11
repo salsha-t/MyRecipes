@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyRecipes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/light_red</item>
+        <item name="colorPrimaryVariant">@color/dark_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:actionMenuTextColor">@color/white</item>
+    </style>
+
+    <style name="MyToolbarTheme" parent="ThemeOverlay.AppCompat.ActionBar">
+        <!-- Mengatur warna default ikon menu menjadi putih -->
+        <item name="colorControlNormal">@color/white</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
