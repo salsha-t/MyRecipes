@@ -52,7 +52,6 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     implementation(libs.circleimageview)
     implementation(libs.glide)
-    implementation(libs.lottie)
     implementation(libs.splashscreen)
 
 }
