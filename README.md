@@ -2,4 +2,4 @@
 This application was developed as a final project for the Dicoding Android Beginner course. The application aims to help users find cooking recipes.
 
 ## Screenshoots
-![Image Alt](https://github.com/salsha-t/MyRecipes/blob/3e3035209940a531163a877cb5803260668e0f9d/1.jpg)
+![Image Alt](https://github.com/salsha-t/MyRecipes/blob/ab7a30fd3434c3382cc389db223b4751e3776710/MyRecipes_screenshoot.jpg)
