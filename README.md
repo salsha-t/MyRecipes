@@ -20,4 +20,5 @@ This project is a native Android project built using Kotlin. It utilizes several
 
 ## Installation
 Clone this repository and import into Android Studio
-git clone git@https://github.com/salsha-t/MyRecipes.git
+```shell
+git clone git@github.com:salsha-t/MyRecipes.git
